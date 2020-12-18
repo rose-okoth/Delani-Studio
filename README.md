@@ -11,7 +11,6 @@ This is a landing page for Delani Studio. A software development studio, with a 
 Rose Okoth.
 ​
 # Setup instructions
-​
 1. Clone the repo:
     `git clone somegitrepo.github.com`
 ​
@@ -36,7 +35,6 @@ Rose Okoth.
     - Use mailchimp APIs to track user input.
 ​
 # Technologies used
-​
 * HTML.
 * CSS.
 * Javascript.
@@ -58,7 +56,7 @@ Delani Studio Live Link: [Delani Studio](https://username.github.io/reponame)
 ​
 # License and Copyright information
 ​
-Copyright(c) 2020 - Rose Okoth.
+Copyright(c) 2020 - Rose Okoth.  
 ​
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 ​
