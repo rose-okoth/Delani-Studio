@@ -1,16 +1,16 @@
-# Project name
+# Project Name
 
 Delani Studio.
 ​
-# Project description
+# Project Description
 
 This is a landing page for Delani Studio. A software development studio, with a team of committed collaborators, with an approach that aims to unify design, development and product management, to create exceptional products. 
 ​
-# Author(s) information
+# Author(s) Information
 
 Rose Okoth.
 ​
-# Setup instructions
+# Setup Instructions
 1. Clone the repo:
     `git clone somegitrepo.github.com`
 ​
@@ -34,7 +34,7 @@ Rose Okoth.
     - Use a pop-up to inform users that their messages have been received and thank them making contact.
     - Use mailchimp APIs to track user input.
 ​
-# Technologies used
+# Technologies Used
 * HTML.
 * CSS.
 * Javascript.
@@ -45,16 +45,16 @@ Rose Okoth.
 ​
 ![App Screenshot](link to the image)
 ​
-# Live link
+# Live Link
 ​
 Delani Studio Live Link: [Delani Studio](https://username.github.io/reponame)
 ​
-# Contact information
+# Contact Information
 
 * Email: [Email](mailto:okoth.rose0@gmail.com)
-* Phone number: [Phone](tel:+254 712 476 547)
+* Phone number: [Phone](tel:+254712476547)
 ​
-# License and Copyright information
+# License and Copyright Information
 ​
 Copyright(c) 2020 - Rose Okoth.  
 ​
