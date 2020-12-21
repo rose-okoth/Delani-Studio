@@ -39,7 +39,7 @@ body {
     margin: 8px -16px;
   }
   
-  /* Add padding BETWEEN each column (if you want) */
+  /* Add padding BETWEEN each column*/
   .row,
   .row > .column {
     padding: 8px;
@@ -77,3 +77,5 @@ body {
       width: 100%;
     }
   }
+
+  
