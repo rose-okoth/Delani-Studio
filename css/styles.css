@@ -1,6 +1,5 @@
 .header {
     color: white;
-    text-align: center;
 }
 
 .services {
@@ -9,6 +8,10 @@
 
 .contact {
     color:#f1f1f1
+}
+
+body {
+    text-align: center;
 }
 
 {
