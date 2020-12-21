@@ -1,3 +1,16 @@
+.header {
+    color: white;
+    text-align: center;
+}
+
+.services {
+    color: #f1f1f1;
+}
+
+.contact {
+    color:#f1f1f1
+}
+
 {
     box-sizing: border-box;
   }
