@@ -11,11 +11,13 @@
 
     <body>
         <div class="header">
-        <div class="p-5 text-center bg-image" style="background-image: url(static/assets/backgrounds/h_img.jpg); height: 600px;">
+        <div class="p-5 text-center bg-image" style="background-image: url(static/assets/backgrounds/h_img.jpg); height: 450px;">
 
-        <img src="static/assets/logo/logo.png/">
+        <img src="static/assets/logo/logo.png">
+
 
         <br>
+
 
         <h1>WELCOME TO DELANI STUDIO</h1>
         <p>AMAZING PEOPLE, MAKING AMAZING DESIGNS, IN A FUN ENVIRONMENT</p>
@@ -142,17 +144,17 @@
         <div class="contact">
         <div class="p-5 text-center bg-image" style="background-image: url(static/assets/backgrounds/c_image.jpg); height: 500px;">
         <h3>CONTACT US</h3>
-        <form action="/action_page.php" onsubmit="myFunction()">
+        <form action="/action_page.php">
             <label for="name">Name:</label>
-            <input type="text" name="name" id="name" placeholder="Name...">
+            <textarea class="form-control" id="name" rows="2" placeholder="Name..."></textarea>
 
             <label for="email">Email:</label>
-            <input type="text" name="email" id="email" placeholder="Email..."><br>
+            <textarea class="form-control" id="email" rows="2" placeholder="Email..."></textarea><br>
 
-            <label for="message">Message:</label>
-            <input type="text" name="message" id="message" placeholder="Your message here..." rows="4">
+            <label for="message">Subject:</label>
+            <textarea class="form-control" id="subject" rows="4" placeholder="Write something..."></textarea>
 
-            <input type="submit" value="Submit">
+            <input type="submit" value="Submit" onsubmit="myFunction()">
         </form>
         </div>
         </div>
