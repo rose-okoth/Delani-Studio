@@ -41,10 +41,6 @@ Rose Okoth.
 * JQuery.
 * Bootstrap.
 ​
-# Screenshots
-​
-![App Screenshot](link to the image)
-​
 # Live Link
 ​
 Delani Studio Live Link: [Delani Studio](https://username.github.io/reponame)
