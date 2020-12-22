@@ -7,14 +7,15 @@ $(document).ready(function() {
   
   $(document).ready(function(){
     $(".content").hover(function(){
-      $(this).css("background-color", "yellow");
+      $(this).css("background-color", "white");
       }, function(){
-      $(this).css("background-color", "pink");
+      $(this).css("background-color", "black");
     });
   });
 
   $(document).ready(function(){
     $(".contact").submit(function(){
-      alert("Submitted");
+      alert("Your message has been received. Thank you for reaching out.");
+      event.preventDefault();
     });
   });
