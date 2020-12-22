@@ -12,10 +12,10 @@ Rose Okoth.
 ​
 # Setup Instructions
 1. Clone the repo:
-    `git clone somegitrepo.github.com`
+    `git clone https://github.com/rose-okoth/Delani-Studio`
 ​
 1. Switch into the directory:
-    `cd reponame`
+    `cd delani-studio`
 ​
 1. Run the launch command:
     `run`
@@ -43,7 +43,7 @@ Rose Okoth.
 ​
 # Live Link
 ​
-Delani Studio Live Link: [Delani Studio](https://username.github.io/reponame)
+Delani Studio Live Link: [Delani Studio](https://rose-okoth.github.io/Delani-Studio/)
 ​
 # Contact Information
 
