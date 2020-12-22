@@ -5,3 +5,16 @@ $(document).ready(function() {
     });
   });
   
+  $(document).ready(function(){
+    $(".content").hover(function(){
+      $(this).css("background-color", "yellow");
+      }, function(){
+      $(this).css("background-color", "pink");
+    });
+  });
+
+  $(document).ready(function(){
+    $(".contact").submit(function(){
+      alert("Submitted");
+    });
+  });
