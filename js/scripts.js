@@ -1,3 +1,7 @@
-function myFunction() {
-    alert("Thank you for contacting us. Your message has been received.")
-}
+$(document).ready(function() {
+    $(".clickable").click(function() {
+      $(".icon-showing").toggle();
+      $(".description-showing").toggle();
+    });
+  });
+  
